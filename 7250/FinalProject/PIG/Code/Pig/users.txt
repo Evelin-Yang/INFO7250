@@ -1,0 +1,17 @@
+1. Top 10 users with most number of fans.
+
+REGISTER /Users/yanglintong/7250/finalProject/PIG/Code/jar/json-simple-1.1.jar
+REGISTER /Users/yanglintong/7250/finalProject/PIG/Code/jar/google-collections-1.0.jar
+REGISTER /Users/yanglintong/7250/finalProject/PIG/Code/jar/elephant-bird-hadoop-compat-4.9.jar
+REGISTER /Users/yanglintong/7250/finalProject/PIG/Code/jar/elephant-bird-core-4.9.jar
+REGISTER /Users/yanglintong/7250/finalProject/PIG/Code/jar/elephant-bird-pig-4.9.jar
+
+A = LOAD '/Users/yanglintong/7250/finalProject/dataset/user_json_small.json' USING com.twitter.elephantbird.pig.load.JsonLoader('-nestedLoad=true') AS (map[]);
+B = FOREACH A GENERATE $0#'user_id' AS user, $0#'name' AS name, (int)$0#'fans' AS fans;
+C = ORDER B BY fans DESC;
+D = LIMIT C 10;
+E = FOREACH D GENERATE user, name, fans;
+G = STORE E INTO '/Users/yanglintong/7250/finalProject/PIG/Output//user0_output.csv' USING org.apache.pig.piggybank.storage.CSVExcelStorage(',', 'NO_MULTILINE', 'WINDOWS');
+dump E;
+
+**************************************************************************************************************

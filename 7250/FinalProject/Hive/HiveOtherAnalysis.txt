@@ -1,0 +1,12 @@
+The top 25 most used words in reviews
+
+CREATE VIEW hivequery1 AS SELECT word2, count(1) AS cnt FROM v2 JOIN p_n_table p ON p.word = v2.word2 GROUP BY word2 ORDER BY cnt desc limit 25;
+
+
+***************************************************************************************************************
+
+Number of words in a review with respect to rating.
+
+CREATE VIEW hivequery2 AS SELECT review_id, COUNT(word2) AS cnt, stars from v2 GROUP BY review_id,stars ORDER BY cnt;
+
+***************************************************************************************************************

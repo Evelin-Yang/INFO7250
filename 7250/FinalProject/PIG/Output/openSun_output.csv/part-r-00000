@@ -1,0 +1,842 @@
+,2
+Lam,3
+Oka,1
+Ajax,153
+Avon,131
+Bath,2
+Bell,1
+Char,1
+Dane,5
+Etna,8
+Jork,13
+Kent,139
+King,3
+Lich,7
+MESA,70
+Mesa,2592
+Moon,6
+Moss,4
+Pine,1
+Plan,1
+Plum,7
+Rain,1
+Ross,2
+Stow,116
+York,33
+mesa,1
+Angus,7
+Anjou,12
+Argos,1
+Berea,47
+Berry,1
+Cecil,3
+Clark,9
+Cuddy,1
+Hiram,3
+Inden,2
+Indus,1
+Irwin,54
+Laval,235
+Maple,34
+Noyan,1
+Ogden,2
+Paoli,3
+Parma,160
+Philo,1
+Savoy,36
+Skara,2
+Sloan,1
+Solon,106
+Stade,27
+Stowe,7
+Tempe,2088
+Thale,7
+Tigre,1
+Topaz,1
+Train,1
+Vegas,1
+Vilas,1
+Anthem,22
+Arnold,3
+Auburn,1
+Aurora,215
+Avalon,2
+Balzac,3
+Beeton,4
+Bolton,23
+Burton,11
+CARSON,1
+Copley,20
+Dallas,15
+Delson,4
+Dorval,36
+Elrama,1
+Elyria,93
+Euclid,45
+Ferrel,1
+Frazer,30
+Higley,6
+Hudson,98
+Jessen,1
+Landau,5
+Laveen,67
+Lorain,46
+Lowell,5
+Malton,1
+Mantua,9
+Marvin,1
+Massey,1
+Medina,152
+Mentor,235
+Monona,76
+Monroe,105
+Mooers,1
+Nellis,1
+Olivos,11
+Orange,4
+Oregon,32
+Peoria,907
+Presto,2
+Rankin,1
+Rawdon,2
+Rigaud,3
+Shaler,1
+Sidney,1
+Tolono,1
+Urbana,171
+Vanier,9
+Vaughn,1
+Verdun,93
+Verona,84
+Vimont,2
+Walton,3
+Waxhaw,78
+Wendel,1
+Weston,1
+Whitby,188
+Whtiby,2
+Airdrie,99
+Amherst,51
+Ashburn,1
+Baldwin,2
+Bedford,49
+Bellvue,2
+Belmont,67
+Beloeil,5
+Blawnox,3
+Buckeye,130
+CALGARY,2
+Caledon,22
+Calgary,3748
+Candiac,3
+Chambly,4
+Chardon,32
+Clinton,1
+Concord,474
+Crafton,8
+Dormont,5
+Farnham,1
+Fithian,1
+Gifford,1
+Gilbert,1454
+Gormley,2
+Grafton,11
+Houston,4
+Ingomar,2
+Kinsman,4
+La Baie,2
+LaSalle,4
+Lachine,24
+Larimer,1
+Lasalle,41
+Liberty,1
+Library,3
+Lindale,1
+Madison,1897
+Mahomet,20
+Markham,971
+Mathews,1
+McMurry,1
+Mercier,1
+Midland,5
+Mirabel,2
+Montral,1
+Munhall,13
+Newbury,4
+Novelty,2
+Oakdale,14
+Oakland,2
+Oakmont,21
+Oakwood,7
+Pheonix,3
+Phoenix,8231
+Rantoul,18
+Rexdale,4
+Rillton,2
+Roxboro,1
+Stanley,4
+Sunrise,1
+Toronto,9849
+Tuscola,17
+Vaughan,537
+Venetia,2
+Waddell,3
+Wexford,118
+Whiitby,1
+Whitney,1
+Windsor,10
+clinton,3
+toronto,4
+Ambridge,18
+Avondale,371
+Bellagio,9
+Bellevue,19
+Ben Avon,1
+Blakeney,1
+Braddock,5
+Bradford,18
+Brampton,546
+Brooklin,6
+Brooklyn,51
+Brossard,102
+Carefree,35
+Carnegie,47
+Chandler,2003
+Cheswick,8
+Clairton,5
+Clarkson,1
+Davidson,55
+DeForest,17
+Duquesne,3
+Eastlake,28
+Edgemont,1
+Edgewood,1
+Emsworth,1
+Fairlawn,86
+Fairview,13
+Ft. Mill,1
+Gastonia,244
+Gelndale,1
+Gibsonia,61
+Glendale,1607
+Glenshaw,20
+Goodwood,1
+Goodyear,421
+Herminie,1
+Hinckley,10
+Imperial,9
+Joliette,4
+Kirkland,20
+Kirtland,11
+La Salle,6
+La Vegas,1
+Lagrange,4
+Lakewood,259
+LasVegas,2
+Lawrence,1
+MATTHEWS,1
+Matthews,326
+Mayfield,6
+McDonald,5
+McKnight,1
+McMurray,51
+Mcmurray,1
+Millvale,6
+Montreal,175
+Montrose,2
+Montéal,1
+Mt Holly,1
+Nobleton,6
+Oakville,434
+Ormstown,2
+Palgrave,1
+Paradise,8
+Pasadena,1
+Peninsul,1
+Pfaffing,2
+Phoeniix,1
+Phonenix,1
+Piedmont,3
+Pincourt,1
+Pitcairn,3
+Port Vue,1
+Prévost,1
+Richmond,1
+Robinson,3
+Rosemere,3
+Sturgeon,1
+Sun City,74
+Surprise,541
+Tega Cay,21
+The Quay,1
+Thornhil,1
+Tolleson,74
+Trafford,20
+Varennes,1
+Waunakee,43
+Westlake,207
+Wildwood,2
+Woodmere,43
+montreal,1
+oakville,1
+AGINCOURT,1
+Agincourt,1
+Ahwatukee,9
+Arrowhead,1
+Aspinwall,14
+Avon Lake,48
+Beachwood,138
+Bond Head,1
+Brentwood,9
+Brookline,1
+Brookpark,7
+Brunswick,95
+CHARLOTTE,1
+Champaign,651
+Champlain,5
+Charlotte,4420
+City Bell,3
+Cleveland,1567
+Cornelius,220
+Cramerton,6
+Creighton,1
+De Forest,15
+Don Mills,1
+Downsview,1
+East Ajax,1
+East York,62
+Edgeworth,1
+El Mirage,54
+Elizabeth,13
+Etobicoke,335
+Fitchburg,114
+Fort Mill,259
+Fullerton,1
+Glamorgan,1
+Glassport,1
+Grünberg,6
+Guadalupe,10
+Hampstead,1
+Harrisbug,1
+Henderson,2251
+Homestead,64
+Iberville,1
+Indianola,1
+Inglewood,1
+Kahnawake,3
+King City,16
+Kleinburg,2
+Lachenaie,1
+Lake Park,2
+Landsberg,12
+Las Vegas,14741
+Las vegas,4
+Leetsdale,9
+Longueuil,43
+Lyndhurst,65
+Macedonia,52
+Mc Donald,4
+Mc Murray,5
+McFarland,14
+Middleton,178
+Midnapore,1
+Mint Hill,38
+Montréal,3608
+Mt. Horeb,1
+New Eagle,2
+Newmarket,185
+NorthYork,1
+Northside,1
+Oakridges,1
+Outremont,21
+Overbrook,1
+Peninsula,15
+Pickering,172
+Pineville,162
+Pittsburg,4
+Plum Boro,1
+Promenade,1
+Richfield,16
+Rockyview,2
+Roosevelt,3
+Rosemère,6
+S Concord,1
+Sage Hill,1
+Schomberg,7
+Scottdale,4
+Scottsale,1
+Sewickley,50
+Shawnessy,1
+Sheffield,4
+St Davids,2
+St Joseph,2
+St Martin,7
+St Oswald,2
+St-Jerome,3
+Stallings,9
+Stoughton,45
+Summerlin,9
+Sun Lakes,11
+Swissvale,4
+Tallmadge,26
+Thornhill,213
+Twinsburg,53
+Vaudreuil,1
+WICKLIFFE,18
+West View,6
+Westmount,39
+White Oak,13
+Wickliffe,18
+Willowick,29
+Youngtown,23
+las Vegas,1
+las vegas,8
+Ahwahtukee,1
+Bainbridge,5
+Ballantyne,1
+Belleville,9
+Blainville,5
+Boisbriand,12
+Broadlands,1
+Brook Park,25
+Canonsburg,66
+Casablanca,4
+Cave Creek,183
+Chatauguay,1
+Coraopolis,77
+Dravosburg,5
+Enterprise,3
+Etobiicoke,2
+Fabreville,1
+Fitchburgh,1
+Fort  Mill,1
+Georgetown,27
+Green Tree,1
+Harrisburg,57
+Heidelberg,7
+Henderston,1
+Kannapolis,80
+La Prairie,11
+Lake Wylie,21
+Las  Vegas,4
+"Las Vegas,",1
+Litchfield,5
+Lowesville,1
+Mc Farland,11
+McCandless,3
+McKeesport,25
+Mint  Hill,1
+Missisauga,4
+Mont-Royal,14
+Monticello,16
+Mt Lebanon,6
+N. OLMSTED,1
+N. Randall,1
+NORTH YORK,1
+Nellis AFB,2
+Nellis Afb,5
+North York,520
+Northfield,42
+Nottingham,3
+Oak Ridges,1
+Penn Hills,17
+"Peoria, AZ",1
+Pepperpike,1
+Pheonix AZ,1
+Phoenix AZ,1
+Pittsburgh,3313
+Repentigny,4
+Ridgeville,1
+Rocky View,13
+Russellton,1
+SW Calgary,1
+San Rafael,1
+Scarbrough,2
+Scottsdale,4011
+Shady Side,1
+Shaker Hts,1
+Sharpsburg,4
+South Park,5
+Springdale,7
+St-Leonard,4
+St-Sauveur,1
+Terrebonne,9
+Thomasboro,1
+Twinsburgh,1
+Unionville,32
+Weddington,5
+Willoughby,125
+Willowdale,7
+Wilmerding,3
+Woodbridge,126
+charlottte,1
+Baie-D'urfe,1
+Bay Village,21
+Beauharnois,1
+Bedford HTS,1
+Bethel Park,97
+Black Earth,5
+Brecksville,37
+Bridgeville,107
+C Las Vegas,1
+CITY CENTER,1
+Chateauguay,9
+Chesterland,28
+Chestermere,21
+Concord Twp,1
+Finleyville,11
+Gates Mills,1
+Glendale Az,1
+Grand River,2
+Harmarville,4
+"Harrisburg,",1
+Indian Land,39
+Indian land,1
+Leslieville,1
+Los Molinos,1
+Maple Grove,1
+McAdenville,2
+Middlefield,11
+Mississauga,1708
+Mississuaga,1
+Monongahela,11
+Monroeville,203
+Mount Holly,16
+Mount Horeb,29
+Mt. Lebanon,5
+Murrysville,46
+N Las Vegas,13
+Napierville,1
+Painesville,70
+Pepper Pike,9
+"Phoenix, AZ",1
+Pierrefonds,26
+Port Credit,1
+Queensville,1
+Richmonhill,1
+Rocky River,123
+Rural Ridge,1
+Russell Twp,1
+SCARBOROUGH,1
+Saint-Bruno,2
+Saint-Henri,1
+Sainte-Rose,1
+San Gennaro,1
+Scarborough,551
+Scarobrough,1
+Schottsdale,1
+Seven Hills,18
+St. Sauveur,1
+Stouffville,33
+Streetsboro,68
+Strongville,1
+Sun Prairie,126
+Valley City,5
+Valley View,10
+W Henderson,1
+Warrenville,1
+Wilkinsburg,7
+Allison Park,39
+Baie-d'Urfé,1
+Beaconsfield,7
+Blue Diamond,5
+Boucherville,15
+Boulder City,145
+COLUMBIA STA,1
+Caledon East,4
+Châteauguay,3
+Clark County,1
+Cross Plains,10
+Cuyahoga Fls,1
+"Davidson, Nc",1
+Desert Ridge,1
+East Calgary,1
+East Liberty,1
+Forest Grove,1
+Forest Hills,3
+Garfield hts,1
+Huntersville,299
+Independence,73
+Indian Lands,1
+Indian Trail,133
+L'assomption,2
+L'ile-Bizard,1
+L'ile-Perrot,2
+Las Vegas Nv,1
+Le Sud-Ouest,1
+Mayfield Hts,2
+McKees Rocks,31
+Mesa Arizona,1
+Mississauaga,1
+Moneroeville,1
+Mount Albert,3
+Munroe Falls,4
+N. Las Vegas,3
+Point-Claire,1
+Richmond Hil,1
+Richmond Hts,3
+Rouses Point,4
+Saint Joseph,4
+Saint-Hubert,14
+Saint-Jerome,10
+Saint-Lazare,5
+Sainte-Adele,4
+Sainte-Julie,7
+Sainte-Marie,1
+Sankt Martin,3
+"Scarborough,",1
+South Euclid,54
+St. Léonard,1
+Stoney Creek,2
+Streetsville,2
+Strongsville,203
+Toronto-West,1
+Turtle Creek,9
+Warrensville,1
+West Mifflin,74
+West Toronto,1
+Broadview Hts,2
+Brooklyn Hts.,1
+Chagrin Falls,92
+"Cleveland, OH",1
+Concord Mills,3
+Cottage Grove,23
+Fairview Park,57
+Fort McDowell,4
+Franklin Park,1
+Glen Williams,1
+Harrison City,2
+"Henderson, NV",1
+Hermitage Twp,1
+L'Île-Perrot,4
+"Las Vegas, NV",1
+Lawrenceville,3
+Lower Burrell,9
+Maple Heights,19
+Mayfield Hts.,1
+Mc Kees Rocks,10
+Metro Phoenix,1
+Montreal-Nord,2
+Montreal-West,2
+Moon Township,22
+Morin-Heights,4
+Mount Lebanon,10
+N E Las Vegas,1
+N W Las Vegas,1
+N. Ridgeville,1
+National City,1
+North Olmsted,223
+North Randall,7
+North Toronto,1
+Olmsted Falls,17
+Parma Heights,33
+Pointe Claire,3
+Pointe-Claire,55
+Queens Square,1
+Regent Square,1
+Richmond Hill,583
+Robinson Twp.,1
+Ross Township,5
+Saint Laurent,1
+Saint Leonard,1
+Saint-Lambert,10
+Saint-Laurent,73
+Saint-Leonard,15
+Saint-Sauveur,38
+Sainte-Adèle,2
+Sainte-Marthe,1
+Spring Valley,4
+Squirrel Hill,2
+Ste-Dorothée,1
+Sun City West,27
+Troy Township,1
+Wesley Chapel,16
+Boston Heights,2
+Castle Shannon,7
+Cote Saint-Luc,5
+Cote-Saint-Luc,1
+Cuyahoga Falls,172
+Division No. 6,1
+East Cleveland,5
+Fountain Hills,131
+Las Vegas East,1
+Laveen Village,12
+Middleburg Hts,3
+Montreal-Ouest,4
+Montréal-Nord,1
+Moreland Hills,3
+Neville Island,2
+New Kensington,25
+North Braddock,1
+North Olmstead,3
+North Royalton,55
+Orange Village,5
+Otterburn Park,1
+Pleasant Hills,24
+Pointe-Calumet,1
+Sagamore Hills,6
+Saint-Constant,4
+Saint-Eustache,10
+Saint-Jérôme,4
+Sainte-Therese,4
+San Tan Valley,33
+Scott Township,1
+"Scottsdale, AZ",1
+Shaker Heights,27
+Sheffield Lake,5
+Upper St Clair,3
+West Homestead,12
+West Montréal,1
+Auburn Township,1
+Bedford Heights,11
+Bois-des-Filion,1
+Brunswick Hills,1
+Cave Creek Road,1
+"Chomedey, Laval",1
+Côte-Saint-Luc,1
+East Gwilimbury,1
+East McKeesport,2
+East Pittsburgh,1
+Fairport Harbor,5
+Greenfield Park,9
+Holland Landing,3
+Jefferson Hills,4
+Litchfield Park,95
+Medina Township,2
+Middleburg Hts.,1
+Montréal-Ouest,1
+North Las Vegas,784
+Oakwood Village,6
+Paradise Valley,45
+Parma mid birth,1
+Peters Township,1
+Richmond Height,1
+Saint-Hyacinthe,8
+Scarborough (C),1
+Shaler Township,2
+Shorewood Hills,2
+South Las Vegas,3
+Southside Flats,1
+Upper St. Clair,2
+W Spring Valley,1
+Île des Soeurs,1
+Île-des-Soeurs,1
+Buckeye - Shaker,1
+Centennial Hills,1
+Chandler-Gilbert,1
+Chester Township,1
+Cleveland Height,1
+Cleveland Hghts.,1
+Columbia Station,5
+Concord Township,2
+Cuyahoga Heights,2
+Downtown Toronto,4
+East Gwillimbury,15
+East Mc Keesport,2
+East Mississauga,2
+Estrella Village,1
+Garfield Heights,23
+Hampton Township,5
+Highland Heights,25
+Kennedy Township,1
+Las Vegas Nevada,1
+Mayfield Heights,91
+Mayfield Village,5
+Newburgh Heights,1
+North Huntingdon,28
+North Huntington,1
+North Ridgeville,42
+North Scottsdale,1
+North Versailles,24
+Olmsted Township,4
+Richmond Heights,17
+River Drive Park,1
+Sainte-Catherine,3
+Sainte-Thérèse,4
+Sainte-thérèse,1
+Toronto Division,1
+Vaudreuil-Dorion,40
+Venise-En-Quebec,1
+Ville Mont-Royal,1
+Warrensville Hts,2
+Wilkins Township,1
+Willoughby Hills,22
+Woodmere Village,1
+columbia station,7
+Broadview Heights,43
+Central Henderson,1
+Cleveland Heights,115
+Mayfield Heights.,1
+North of Brampton,1
+NorthEast Calgary,1
+NorthWest Calgary,3
+Northeast Calgary,1
+Northfield Center,1
+Northwest Calgary,2
+Richland Township,1
+Robinson Township,11
+Rocky View County,6
+Saint - Hyacinthe,1
+Sheffield Village,20
+SouthEast Calgary,2
+SouthWest Calgary,2
+Southeast Calgary,1
+Upper Saint Clair,6
+Warrensville Hts.,1
+Elizabeth Township,1
+Mentor On The Lake,1
+Mentor On the Lake,7
+Mentor-on-the-Lake,8
+Middleburg Heights,82
+Mont-Saint-Hilaire,5
+Phoenix metro area,1
+University Heights,30
+Bainbridge Township,2
+Dollard-Des Ormeaux,4
+Dollard-Des-Ormeaux,27
+Dollard-des Ormeaux,2
+Dollard-des-Ormeaux,42
+"Laval, Ste Dorothee",1
+Lower Lawrenceville,1
+McCandless Township,3
+Mont-Saint-Gregoire,4
+Montréal (Québec),1
+Old Town Scottsdale,2
+Pointe-Aux-Trembles,3
+South Park Township,3
+Toronto Scarborough,1
+Township of Concord,1
+Ville Saint Laurent,1
+Central City Village,1
+Painesville Township,1
+Warrensville Heights,30
+Woodbridge (Vaughan),1
+St-Benoît de Mirabel,1
+St. Jean Sur Richelieu,1
+Whitchurch-Stouffville,27
+Sainte-Anne-De-Bellevue,8
+Sainte-Anne-de-Bellevue,5
+St-Bruno-de-Montarville,1
+Henderson (Green Valley),1
+Saint-Bernard de Lacolle,1
+Saint-Bernard-De-Lacolle,1
+Saint-Jean-Sur-Richelieu,2
+Saint-Jean-sur-Richelieu,17
+Saint-Marc-sur-Richelieu,1
+Salaberry-De-Valleyfield,1
+Turks and Caicos Islands,1
+Bradford West Gwillimbury,11
+Murrysville (Monroeville),1
+Northfield Center Township,1
+Notre-Dame-De-L'ile-Perrot,1
+Saint-Bruno-de-Montarville,3
+Saint-Isidore-De-Laprairie,1
+York Regional Municipality,1
+Municipality of Murrysville,1
+Mayfield Heights (Cleveland),1
+Regional Municipality of York,1
+Sainte-Thérèse-de-Blainville,1
+Sainte-Marguerite-du-Lac-Masson,1
+Sainte-Marguerite-du-lac-Masson,1
+Communauté-Urbaine-de-Montréal,2
+Deux-Montagnes Regional County Municipality,1

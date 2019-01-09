@@ -1,0 +1,8 @@
+CREATE VIEW busirec AS SELECT a.user_id, a.business_id, b.stars FROM reviewtable a JOIN businesstable b ON a.business_id = b.business_id WHERE b.categories[0] like "Restaur%" OR b.categories[1] like "Restaura%" OR b.categories[2] like "Restaura%" ORDER BY user_id, business_id;
+
+CREATE TABLE busirectable ROW FORMAT DELIMITED FIELDS TERMINATED BY ',' LINES TERMINATED BY '\n' AS SELECT * FROM busirec;
+
+bin/hadoop fs -cat /user/hive/warehouse/busirectable/* > /home/bryce/Desktop/busirec.csv;
+
+
+
